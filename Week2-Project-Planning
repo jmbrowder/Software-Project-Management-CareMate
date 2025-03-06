@@ -1,0 +1,62 @@
+
+CareMate: Personalized Healthcare Companion
+
+Jason Browder
+CS-3332 Software Engineering I
+Mr. Reggie Haseltine
+1/26/2025
+
+
+Software Project Management Plan for CareMate
+Anticipated User Population
+The primary user base for CareMate will consist of individuals managing chronic health conditions such as diabetes, hypertension, and arthritis. According to the CDC, nearly 60% of adults in the United States live with at least one chronic disease (Centers for Disease Control and Prevention, 2023). Based on this, we anticipate an initial target population of one million users within the first two years, focusing on adults aged 30 to 65, caregivers, and healthcare professionals.
+Budget and Project Timeline
+The estimated budget for CareMate’s development is $750,000. This includes costs for personnel salaries, software tools, testing, marketing, and infrastructure. Drawing from industry norms, this budget aligns with typical costs for applications of similar size and complexity (Pressman & Maxim, 2020). The project is planned to be completed in 12 months, divided into phases: 2 months for requirements gathering and planning, 6 months for development and testing, and 4 months for deployment and feedback.
+
+Stakeholders
+The stakeholders for CareMate include:
+•	Primary Stakeholders: End-users, such as patients managing chronic conditions, caregivers, and healthcare providers.
+•	Internal Stakeholders: The project team, including developers, designers, quality assurance testers, and project managers.
+•	Secondary Stakeholders: Investors, regulatory bodies, and marketing teams.
+•	External Stakeholders: Partners in the healthcare ecosystem, such as wearable device manufacturers and API providers.
+
+Ideal Software Development Team
+A talented and diverse team is crucial for CareMate’s success. The team should include:
+1.	Software Engineers:
+o	Qualifications: Bachelor’s degree in computer science, with 3+ years of experience in mobile and web development. Proficiency in Java, Python, or Kotlin.
+o	Salary Range: $90,000 to $120,000 annually (Simplilearn, n.d.).
+2.	UI/UX Designers:
+o	Qualifications: Degree or certification in design, with 2+ years of experience in healthcare or related industries.
+o	Salary Range: $70,000 to $90,000 annually (Payscale, n.d.).
+3.	Quality Assurance Testers:
+o	Qualifications: Certification in software testing (e.g., ISTQB) and 2+ years of experience in QA roles.
+o	Salary Range: $60,000 to $80,000 annually (BuiltIn, n.d.).
+4.	Data Analysts:
+o	Qualifications: Degree in Data Science or a related field, with experience in handling healthcare data and ensuring HIPAA compliance.
+o	Salary Range: $80,000 to $100,000 annually (Glassdoor, n.d.).
+5.	Project Manager:
+o	Qualifications: Certified Scrum Master (CSM) or Project Management Professional (PMP) certification, with 5+ years of experience in software project management.
+o	Salary Range: $100,000 to $130,000 annually (Dice, n.d.).
+
+Chosen Process Model
+The Agile Scrum process model is the best fit for CareMate. Agile supports iterative development and fosters frequent feedback from stakeholders, allowing the team to adapt quickly to changes in requirements (Pressman & Maxim, 2020). Scrum’s focus on sprints ensures the rapid delivery of functional prototypes and encourages collaboration, making it an ideal choice for a user-centric project like CareMate.
+First Week Activities
+As the Software Project Manager, my first week will focus on:
+1.	Stakeholder Identification and Communication: Organizing a kickoff meeting with key stakeholders to define the project’s vision, objectives, and success criteria.
+2.	Team Formation: Finalizing team roles and responsibilities, ensuring a balance of skills and expertise.
+3.	Project Planning: Establishing the project scope, creating a high-level project schedule, and identifying key milestones.
+4.	Risk Assessment: Conducting a preliminary risk assessment to identify potential challenges and mitigation strategies (Pressman & Maxim, 2020).
+5.	Tool Selection: Choosing appropriate development, communication, and project management tools, such as Jira, Slack, and GitHub.
+6.	Documentation: Setting up the initial documentation framework, including project charters, requirement templates, and sprint backlogs.
+By focusing on these foundational activities, the project can begin with clear objectives, well-organized processes, and a motivated team ready to tackle challenges and deliver a successful product.
+
+
+References
+Pressman, R. S., & Maxim, B. R. (2020). Software engineering: A practitioner’s approach (9th ed.). New York, NY: McGraw Hill.
+Centers for Disease Control and Prevention. (2023). Chronic diseases in America. https://www.cdc.gov/chronicdisease/index.htm
+BuiltIn. (n.d.). QA analyst salaries. https://builtin.com/salaries/us/qa-analyst
+Dice. (n.d.). Project manager salaries. https://www.dice.com/career-tools
+Glassdoor. (n.d.). Data analyst salaries. https://www.glassdoor.com
+Simplilearn. (n.d.). Software engineer salaries. https://www.simplilearn.com/software-engineer-salary-in-us-article
+Payscale. (n.d.). UI/UX designer salaries. Retrieved from https://www.payscale.com
+Purdue Online Writing Lab. (n.d.). General format. Purdue University. https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html
