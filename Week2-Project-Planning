@@ -9,9 +9,14 @@ Mr. Reggie Haseltine
 
 Software Project Management Plan for CareMate
 Anticipated User Population
-The primary user base for CareMate will consist of individuals managing chronic health conditions such as diabetes, hypertension, and arthritis. According to the CDC, nearly 60% of adults in the United States live with at least one chronic disease (Centers for Disease Control and Prevention, 2023). Based on this, we anticipate an initial target population of one million users within the first two years, focusing on adults aged 30 to 65, caregivers, and healthcare professionals.
+The primary user base for CareMate will consist of individuals managing chronic health conditions such as diabetes, hypertension, and arthritis. 
+According to the CDC, nearly 60% of adults in the United States live with at least one chronic disease (Centers for Disease Control and Prevention, 2023). 
+Based on this, we anticipate an initial target population of one million users within the first two years, focusing on adults aged 30 to 65, caregivers, and healthcare professionals.
+
 Budget and Project Timeline
-The estimated budget for CareMate’s development is $750,000. This includes costs for personnel salaries, software tools, testing, marketing, and infrastructure. Drawing from industry norms, this budget aligns with typical costs for applications of similar size and complexity (Pressman & Maxim, 2020). The project is planned to be completed in 12 months, divided into phases: 2 months for requirements gathering and planning, 6 months for development and testing, and 4 months for deployment and feedback.
+The estimated budget for CareMate’s development is $750,000. This includes costs for personnel salaries, software tools, testing, marketing, and infrastructure. 
+Drawing from industry norms, this budget aligns with typical costs for applications of similar size and complexity (Pressman & Maxim, 2020). 
+The project is planned to be completed in 12 months, divided into phases: 2 months for requirements gathering and planning, 6 months for development and testing, and 4 months for deployment and feedback.
 
 Stakeholders
 The stakeholders for CareMate include:
@@ -39,7 +44,9 @@ o	Qualifications: Certified Scrum Master (CSM) or Project Management Professiona
 o	Salary Range: $100,000 to $130,000 annually (Dice, n.d.).
 
 Chosen Process Model
-The Agile Scrum process model is the best fit for CareMate. Agile supports iterative development and fosters frequent feedback from stakeholders, allowing the team to adapt quickly to changes in requirements (Pressman & Maxim, 2020). Scrum’s focus on sprints ensures the rapid delivery of functional prototypes and encourages collaboration, making it an ideal choice for a user-centric project like CareMate.
+The Agile Scrum process model is the best fit for CareMate. Agile supports iterative development and fosters frequent feedback from stakeholders, allowing the team to adapt quickly to changes in requirements (Pressman & Maxim, 2020). 
+Scrum’s focus on sprints ensures the rapid delivery of functional prototypes and encourages collaboration, making it an ideal choice for a user-centric project like CareMate.
+
 First Week Activities
 As the Software Project Manager, my first week will focus on:
 1.	Stakeholder Identification and Communication: Organizing a kickoff meeting with key stakeholders to define the project’s vision, objectives, and success criteria.
